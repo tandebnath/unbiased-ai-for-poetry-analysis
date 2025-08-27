@@ -54,9 +54,9 @@ This is the working directory for the annotation tool. All assigned poem files w
 
 ### Step 4. Begin Annotating!
 
-	•	Run the annotation tool pointing it to your generated worksetX/collections/ folder.
-	•	Use annotation.csv to record your annotations.
-	•	Use notes.csv to save any observations about volumes or OCR issues.
+- Run the annotation tool pointing it to your generated worksetX/collections/ folder.
+- Use annotation.csv to record your annotations.
+- Use notes.csv to save any observations about volumes or OCR issues.
 
 --- 
 
