@@ -1,8 +1,8 @@
 import os
 import shutil
 
-VOLUME_DIR = 'Volumes'
-OUTPUT_DIR = os.path.join('MyPoemAssignments', 'Collection')
+VOLUME_DIR = 'full_corpus'
+OUTPUT_DIR = os.path.join('workset1', 'collection')
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 os.makedirs(os.path.join(OUTPUT_DIR, 'mdp.39015021471480_007'), exist_ok=True)
